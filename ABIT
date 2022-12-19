@@ -1,0 +1,19 @@
+{
+      "constant": false,
+      "inputs": [
+        {
+          "name": "proof",
+          "type": "bytes"
+        }
+      ],
+      "name": "withdraw",
+      "outputs": [
+        {
+          "name": "",
+          "type": "bool"
+        }
+      ],
+      "payable": false,
+      "stateMutability": "nonpayable",
+      "type": "function"
+    }
